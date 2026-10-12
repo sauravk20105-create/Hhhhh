@@ -1,0 +1,6 @@
+{
+  "name": "Mayra AI",
+  "description": "Smart Personal Voice Assistant in Hindi, Hinglish and English with mobile controls, alarms, wake word, background service, and Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

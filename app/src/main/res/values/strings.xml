@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Mayra AI</string>
+    <string name="assistant_tagline">Your Smart &amp; Caring Voice Companion</string>
+    <string name="wake_word_notification_title">Mayra AI is listening</string>
+    <string name="wake_word_notification_desc">Listening for \\"Hey Mayra\\" wake word</string>
+    <string name="action_stop_listening">Stop Listening</string>
+    <string name="mic_permission_rationale">Mayra needs microphone permission to hear your voice commands and wake word.</string>
+    <string name="notification_permission_rationale">Notification permission is required to run the background voice service and alert you.</string>
+    <string name="settings_title">Mayra Settings</string>
+    <string name="user_name_label">Your Name</string>
+    <string name="user_name_hint">e.g. Rahul, Priya, Boss</string>
+    <string name="personality_label">Mayra\'s Personality</string>
+    <string name="voice_pitch_label">Voice Pitch</string>
+    <string name="speech_rate_label">Speaking Speed</string>
+    <string name="wake_word_toggle">Background Wake Word (\"Hey Mayra\")</string>
+    <string name="offline_mode_toggle">Prefer Offline Commands</string>
+    <string name="clear_chat_history">Clear Chat History</string>
+    <string name="confirm_clear_chat">Are you sure you want to delete all conversation history?</string>
+</resources>
